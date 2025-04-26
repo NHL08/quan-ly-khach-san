@@ -1,0 +1,5 @@
+@font-face {
+    font-family: QuickLetter;
+    src: url("fonts/QuickLetter.ttf") format('truetype');
+    font-display: swap;
+}
